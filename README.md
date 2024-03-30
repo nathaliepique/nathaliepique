@@ -1,11 +1,13 @@
-<img>
+<img align="left" src="Frame 1.png" alt="NathaliePique" width ="100%" height = "auto"/></br>
 
-<h1>NazliQ</h1> 
+
+#
+
+</br>
 
 **`Digital Maker and IT Student`**
 
-👋 Hi, I’m nazliQ aka Nathalie </br>
-I'm a creative maker, develeoper and designer. </br>
+👋 I'm a creative maker, develeoper and designer. </br>
 Who just wants to build my version of the digital world and physical one step at a time. </br>
 All projects start with a problem or an idea that i try to solve from the ground up. </br>
 
