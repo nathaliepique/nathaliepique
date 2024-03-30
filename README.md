@@ -1,3 +1,4 @@
+<img>
 
 <h1>NazliQ</h1> 
 
@@ -8,10 +9,10 @@ I'm a creative maker, develeoper and designer. </br>
 Who just wants to build my version of the digital world and physical one step at a time. </br>
 All projects start with a problem or an idea that i try to solve from the ground up. </br>
 
-  👩🏻‍💻 Right know im a appliend computer science(IT) student at OsloMet university</br>
-  💼 Working for Oslomet Makerspace, with 3d printers, electronics and teatching students to use the machines and equipments</br>
-  🎓 Studied [Graphic design bachelor] at Kristiania University College, Oslo Norway</b>
-  📚 Currenlty learning java, javascript, react, Ardunio & p5.js
+  👩🏻‍💻 Right know im a appliend computer science(IT) student at OsloMet university </br>
+  💼 Working at Oslomet Makerspace, with 3d printers,teatching students to use the machines and equipments </br>
+  🎓 Studied [Graphic design bachelor] at Kristiania University College, Oslo Norway </br>
+  📚 Currenlty learning java, javascript, react, Ardunio & p5.js </br>
 
 #
 
@@ -62,9 +63,5 @@ All projects start with a problem or an idea that i try to solve from the ground
 
   
 ---
-### Stats
-
-
-
 
 
