@@ -1,5 +1,5 @@
 
-# NazliQ
+<h1>NazliQ</h1> 
 
 **`Digital Maker and IT Student`**
 
@@ -13,22 +13,9 @@ All projects start with a problem or an idea that i try to solve from the ground
   🎓 Studied [Graphic design bachelor] at Kristiania University College, Oslo Norway</b>
   📚 Currenlty learning java, javascript, react, Ardunio & p5.js
 
----
-
-### Social 
-<p align="left">
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-  <a href=""></a>
-</p>
-  
-
----
+#
 
 ### Langugaes and Tools
-
-#Programming 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
@@ -40,22 +27,38 @@ All projects start with a problem or an idea that i try to solve from the ground
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+<img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
 
+</br>
+</br>
 
+<table align="left;">
+  <tr>
+    <th>Design tools</th>
+    <th>3d printing tools</th>
+  </tr>
+  <tr>
+    <td>Figma</td>
+    <td>Fusion 360</td>
+  </tr>
+  <tr>
+     <td>Adobe illustrator</td>
+     <td>Thinkercad</td> 
+  </tr>
+  <tr>
+    <td>Adobe Indesign</td>
+    <td>Prusaslicere</td>
+  </tr>
+  <tr>
+    <td>Adobe Photoshop</td>
+    <td>Cura</td>
+  </tr>
+  <tr>
+    <td>Adobe After Affects</td>
+    <td> </td>
+  </tr>   
+</table>
 
-#Design
-- Adobe illustrator
-- Figma
-- Adobe Photoshop
-- Adobe Indesign
-- Adobe After affects
-
-#3d printing
-- Fusion 360
-- Thinkercad
-- Prusaslicer
-- Cura
   
 ---
 ### Stats
