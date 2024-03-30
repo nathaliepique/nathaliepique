@@ -9,7 +9,7 @@ Who just wants to build my version of the digital world and physical one step at
 All projects start with a problem or an idea that i try to solve from the ground up. </br>
 
   👩🏻‍💻 Right know im a appliend computer science(IT) student at OsloMet university</br>
-  💼 Working for Oslomet Makerspace, with 3d printers, electronics and teatching students to use  the machines and equipments</br>
+  💼 Working for Oslomet Makerspace, with 3d printers, electronics and teatching students to use the machines and equipments</br>
   🎓 Studied [Graphic design bachelor] at Kristiania University College, Oslo Norway</b>
   📚 Currenlty learning java, javascript, react, Ardunio & p5.js
 
@@ -29,6 +29,7 @@ All projects start with a problem or an idea that i try to solve from the ground
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" /> 
 
+</br>
 </br>
 </br>
 
