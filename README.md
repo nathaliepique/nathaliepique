@@ -5,16 +5,25 @@
 
 </br>
 
-**`Digital Maker and IT Student`**
+**`Digital Maker, designer and IT Student`**
 
-👋 I'm a creative maker, develeoper and designer. </br>
-Who just wants to build my version of the digital world and physical one step at a time. </br>
-All projects start with a problem or an idea that i try to solve from the ground up. </br>
+</br>
 
-  👩🏻‍💻 Right know im a appliend computer science(IT) student at OsloMet university </br>
-  💼 Working at Oslomet Makerspace, with 3d printers,teatching students to use the machines and equipments </br>
-  🎓 Studied [Graphic design bachelor] at Kristiania University College, Oslo Norway </br>
+Who just wants to build my version of the digital world and the physical one, one step at a time. </br>
+All projects start with a problem or an idea that I try to solve from the ground up. </br>
+
+  👩🏻‍💻 Right now I am studying applied computer technology at OsloMet University </br>
+  💼 Working at the Oslomet Makerspace, with 3d printers, teaching students to use the machines and equipment</br>
+  🎓 Previously studied [Graphic design bachelor] at Høyskolen Kristiania, Oslo Norway </br>
   📚 Currenlty learning java, javascript, react, Ardunio & p5.js </br>
+  
+
+
+### Social links 
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=666FEB)](https://www.linkedin.com/in/nazliq/)
+[![Printables Badge](https://img.shields.io/badge/Printables-Profile-information?style=flat&logo=Printables&logoColor=white&color=FFAE12)](https://www.printables.com/@NazliQ_1371013)
+
 
 #
 
