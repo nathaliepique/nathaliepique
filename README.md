@@ -15,7 +15,7 @@ All projects start with a problem or an idea that I try to solve from the ground
   👩🏻‍💻 Right now I am studying applied computer technology at OsloMet University </br>
   💼 Working at the Oslomet Makerspace, with 3d printers, teaching students to use the machines and equipment</br>
   🎓 Previously studied [Graphic design bachelor] at Høyskolen Kristiania, Oslo Norway </br>
-  📚 Currenlty learning java, javascript, react, Ardunio & p5.js </br>
+  📚 Currenlty learning react, javascript, Ardunio & p5.js </br>
   
 
 
