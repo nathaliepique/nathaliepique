@@ -5,17 +5,13 @@
 
 </br>
 
-**`Digital Maker, designer and IT Student`**
-
-</br>
-
-Who just wants to build my version of the digital world and the physical one, one step at a time. </br>
+Just wants to build my version of the digital world and the physical one, one step at a time. </br>
 All projects start with a problem or an idea that I try to solve from the ground up. </br>
 
   👩🏻‍💻 Right now I am studying applied computer technology at OsloMet University </br>
   💼 Working at the Oslomet Makerspace, with 3d printers, teaching students to use the machines and equipment</br>
   🎓 Previously studied [Graphic design bachelor] at Høyskolen Kristiania, Oslo Norway </br>
-  📚 Currenlty learning react, javascript, Ardunio & p5.js </br>
+  📚 Currenlty learning react, javascript, Ardunio & processing </br>
   
 
 
@@ -32,16 +28,13 @@ All projects start with a problem or an idea that I try to solve from the ground
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 
 </br>
