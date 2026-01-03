@@ -19,7 +19,7 @@ Every project starts with a problem or an idea that I explore and solve from the
   Worked with 3D printers, digital fabrication, and teaching students how to use machines and equipment
 
 ## 🎓 Education
-- **Applied Computer Technology** – OsloMet University  
+- **Bachelor in Applied Computer Technology** – OsloMet University  
 - **Bachelor in Graphic Design** – Høyskolen Kristiania, Oslo
 
 ---
@@ -38,15 +38,12 @@ Every project starts with a problem or an idea that I explore and solve from the
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![AngularJS](https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-0A1F44?style=for-the-badge&logoColor=white)
-
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=black)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -62,7 +59,7 @@ Every project starts with a problem or an idea that I explore and solve from the
 | Adobe Illustrator       | Tinkercad        |
 | Adobe InDesign          | PrusaSlicer      |
 | Adobe Photoshop         | Cura             |
-| Adobe After Effects     |                  |
+| Adobe After Effects     | BambuLab Studio  |
 
 ---
 
