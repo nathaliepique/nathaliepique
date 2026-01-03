@@ -8,10 +8,10 @@
 Just wants to build my version of the digital world and the physical one, one step at a time. </br>
 All projects start with a problem or an idea that I try to solve from the ground up. </br>
 
-  👩🏻‍💻 Right now I am studying applied computer technology at OsloMet University </br>
-  💼 Working at the Oslomet Makerspace, with 3d printers, teaching students to use the machines and equipment</br>
-  🎓 Previously studied [Graphic design bachelor] at Høyskolen Kristiania, Oslo Norway </br>
-  📚 Currenlty learning react, javascript, Ardunio & processing </br>
+  👩🏻‍💻 Right now working as an Associate at KPMG Norway || ServieNow Developer </br>
+  💼 Previously worked at the Oslomet Makerspace, with 3d printers, teaching students to use the machines and equipment</br>
+  🎓 Previously studied [applied computer technology] at OsloMet University , and [Graphic design bachelor] at Høyskolen Kristiania, Oslo Norway  </br>
+  📚 Currenlty working with Angulare JS and javascript development in ServiceNow Service Portal </br>
   
 
 
